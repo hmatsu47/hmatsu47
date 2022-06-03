@@ -1,1 +1,1 @@
-See https://hmatsu47.github.io/create-readme/
+**Blog links: https://hmatsu47.github.io/create-readme/**
