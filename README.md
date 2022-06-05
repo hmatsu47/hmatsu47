@@ -1,1 +1,4 @@
-**Blog & Slide links: https://hmatsu47.github.io/create-readme/**
+- **Blog Articles :**
+  - https://hmatsu47.github.io/blog
+- **Slides :**
+  - https://hmatsu47.github.io/slides
